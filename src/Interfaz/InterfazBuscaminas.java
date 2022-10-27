@@ -8,7 +8,6 @@ import javax.swing.UIManager;
 import Interfaz.*;
 
 import Mundo.Buscaminas;
-import javafx.scene.layout.Border;
 
 public class InterfazBuscaminas extends JFrame
 {
